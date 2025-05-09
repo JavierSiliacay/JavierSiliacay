@@ -53,27 +53,37 @@ void Javier::introduction() {
 
 ### Featured Projects
 
-- 🔧 **Smart Engine Oil Monitoring System**  
+- 🔧 **Smart Engine Oil Monitoring System**(Thesis)  
   Real-time oil quality tracking using ESP32 + SD + RTC + TFT. Monitors viscosity, contamination levels, and temperature patterns.
 
+- 🎮 **Pachinko Quiz Game**   
+  Interactive servo-based quiz ball game with scoring system and customizable question sets.
+
+- 🎯 **Timed Catapult System**   
+  Precision catapult with ultrasonic-based velocity detection that measures projectile speed.
+
+- ⚡ **EMF Detector**: Detects electromagnetic field strength using analog sensors with intuitive feedback
+  
+- 🧪 **Normal/Abnormal Mode System**: Mode-switching system for operational logic monitoring
+  
+- 🌡️ **Temperature Monitoring System**: Real-time temp readings with alerts and logging 
+  
+- 🔥 **Smoke & Gas Flame Detection**: Safety device for fire/smoke/gas detection using sensors 
+  
+- 💡 **pH Detection with LCD**: Reads water/acidity levels with clear LCD interface 
+  
+- 💧 **pH Monitoring with LED Indicator**: LED-based pH level detection system 
+  
+- 🌬️ **Windmill Energy System**: Simulated windmill generating voltage based on wind speed 
+
+### Educational Ethical Hacking Projects but private:
 - 📡 **WiFi Deauther Project**  
   ESP8266-based educational tool for WiFi network exploration and security analysis. *For educational purposes only.*
 
-- 🎮 **Pachinko Quiz Game** ✅  
-  Interactive servo-based quiz ball game with scoring system and customizable question sets.
+ - 📡 WiFi & Bluetooth Jammer Project
+ESP32-based experimental tool for exploring wireless signal interference and security testing. For educational and ethical research use only.
+It interrupts the whole 2.4 GHz broadband! Everything that works on 2.4 GHz is being interfered, like: audio in speakers transmitted over Bluetooth, microphones on 2.4 GHz, smartphone connections, WiFi, RC drones, IoT devices, smart gadgets, wireless keyboards & mice—just anything on 2.4 GHz!
 
-- 🎯 **Timed Catapult System** ✅  
-  Precision catapult with ultrasonic-based velocity detection that measures projectile speed.
-
-### More Exciting Projects:
-
-- ⚡ **EMF Detector**: Detects electromagnetic field strength using analog sensors with intuitive feedback
-- 🧪 **Normal/Abnormal Mode System**: Mode-switching system for operational logic monitoring
-- 🌡️ **Temperature Monitoring System**: Real-time temp readings with alerts and logging ✅
-- 🔥 **Smoke & Gas Flame Detection**: Safety device for fire/smoke/gas detection using sensors ✅
-- 💡 **pH Detection with LCD**: Reads water/acidity levels with clear LCD interface ✅
-- 💧 **pH Monitoring with LED Indicator**: LED-based pH level detection system ✅
-- 🌬️ **Windmill Energy System**: Simulated windmill generating voltage based on wind speed ✅
 
 ## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="25px"> Current Learning Path
 
