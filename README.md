@@ -15,7 +15,7 @@ I'm a passionate embedded systems developer from the Philippines, currently stud
 void Javier::introduction() {
   char location[] = "Philippines";
   char university[] = "USTP";
-  char specializations[] = {"Embedded Systems", "C/C++", "Arduino", "ESP32/ESP8266"};
+  char specializations[] = {"Embedded Systems", "C/C++", "Arduino", "ESP32/ESP8266", BW16};
   bool coffee_powered = true;
   
   while(coffee_powered) {
