@@ -74,7 +74,9 @@ void Javier::introduction() {
   
 - 💧 **pH Monitoring with LED Indicator**: LED-based pH level detection system 
   
-- 🌬️ **Windmill Energy System**: Simulated windmill generating voltage based on wind speed 
+- 🌬️ **Windmill Energy System**: Simulated windmill generating voltage based on wind speed
+
+- 🗑️ **Automated Waste Segregator**: using IR and rain sensors with a stepper and servo system to detect and sort wet and dry objects.
 
 ### Educational Ethical Hacking Projects but private:
 - 📡 **WiFi Deauther Project**  
