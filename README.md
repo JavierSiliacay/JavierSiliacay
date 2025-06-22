@@ -83,10 +83,13 @@ void Javier::introduction() {
 - 📡 **WiFi Deauther Project**  
   ESP8266-based educational tool for WiFi network exploration and security analysis. *For educational purposes only.*
 
- - 📡 WiFi & Bluetooth Jammer Project
+ - 📡 **WiFi & Bluetooth Jammer Project**
 ESP32-based experimental tool for exploring wireless signal interference and security testing. For educational and ethical research use only.
 It interrupts the whole 2.4 GHz broadband! Everything that works on 2.4 GHz is being interfered, like: audio in speakers transmitted over Bluetooth, microphones on 2.4 GHz, smartphone connections, WiFi, RC drones, IoT devices, smart gadgets, wireless keyboards & mice—just anything on 2.4 GHz!
 
+ - 📡 **2.4GHz & 5GHz Deauther Project**
+A dual-band WiFi deauthentication tool designed for educational use only. Disrupts wireless connections on both 2.4GHz and 5GHz networks with a built-in web interface for scanning, selecting, and attacking.
+It disconnects devices from any WiFi network — phones, laptops, routers, smart TVs, game consoles, IoT devices, cameras, and more.
 
 ## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="25px"> Current Learning Path
 
