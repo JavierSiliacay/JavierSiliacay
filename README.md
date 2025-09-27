@@ -55,7 +55,7 @@ void Javier::introduction() {
 ### Featured Projects
 
 - 🔧 **Smart Engine Oil Monitoring System**(Thesis)  
-  Real-time oil quality tracking using ESP32 + SD + RTC + TFT. Monitors viscosity, contamination levels, and temperature patterns.
+  Real-time engine oil contamination monitoring using an ESP32, turbidity sensor, SD card, and RTC module, with results displayed on a web interface. The system tracks oil contamination levels in real-time and logs timestamped data to support predictive maintenance.
 
 - 🎮 **Pachinko Quiz Game**   
   Interactive servo-based quiz ball game with scoring system and customizable question sets.
