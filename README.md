@@ -80,6 +80,8 @@ void Javier::introduction() {
 
 - 🗑️ **Automated Waste Segregator**: using IR and rain sensors with a stepper and servo system to detect and sort wet and dry objects.
 
+- 🔥🗑️ **Smart Fire–Gas–Bin Monitoring System**: detects fire, gas hazards, and bin fullness in real time while automatically activating a relay-controlled water pump and alert indicators.
+
 ### Educational Ethical Hacking Projects but private:
 - 📡 **WiFi Deauther Project**  
   ESP8266-based educational tool for WiFi network exploration and security analysis. *For educational purposes only.*
