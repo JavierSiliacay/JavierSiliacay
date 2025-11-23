@@ -48,7 +48,7 @@ void Javier::introduction() {
   <img src="https://img.shields.io/badge/ESP32-2C3E50?style=for-the-badge" alt="ESP32" />
   <img src="https://img.shields.io/badge/ESP8266-4B4B4B?style=for-the-badge" alt="ESP8266" />
   <img src="https://img.shields.io/badge/BW16-ff9800?style=for-the-badge" alt="BW16" />
-    <img src="https://img.shields.io/badge/ESP32%C#%Super%Mini-4B4B4B?style=for-the-badge" alt="ESP32 C3 Super Mini" />
+<img src="https://img.shields.io/badge/ESP32%20C3%20Super%20Mini-4B4B4B?style=for-the-badge" alt="ESP32 C3 Super Mini" />
 </p>
 
 ## <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="25px"> Top Projects
