@@ -16,7 +16,7 @@ void Javier::introduction() {
   char location[] = "Philippines";
   char university[] = "USTP";
   char course/program[] = "Bachelor of Science in Autotronics";
-  char specializations[] = {"Embedded Systems", "C/C++", "Arduino", "ESP32/ESP8266", "BW16"};
+  char specializations[] = {"Embedded Systems", "IoT", "Circuit Diagrams", "Electronics Ethical Hacking"};
   bool coffee_powered = true;
   
   while(coffee_powered) {
