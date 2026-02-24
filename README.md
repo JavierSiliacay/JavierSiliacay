@@ -73,6 +73,13 @@ It bridges Autotronics hardware data with an intelligent web dashboard.
 
 #### 🧱 Full Tech Stack
 
+**AI Integration (The Intelligence Layer)**  
+* Primary Cloud Intelligence – Centralized AI brain powering the customer assistant and administrative analytics  
+* Redundant Local Inference – Local fallback keeps AI features operational if cloud APIs are unavailable  
+* Business Intelligence (BI) Engine – Processes workshop data into financial reports and strategic insights  
+* Humanized Response Processing – Cleans AI output to ensure natural, conversational responses  
+
+
 **Frontend & Framework**
 
 * Next.js (App Router)
