@@ -55,6 +55,9 @@ void Javier::introduction() {
 
 ### Featured Projects
 
+- **💻 Autoworx System
+A premium Vehicle Repair Management System built with Next.js 15, TypeScript, and Supabase. It features real-time data sync, automated billing/VAT, and AI-driven business analysis.
+
 - 🔧 **Smart Engine Oil Monitoring System**(Thesis)  
   Real-time engine oil contamination monitoring using an ESP32, turbidity sensor, SD card, and RTC module, with results displayed on a web interface. The system tracks oil contamination levels in real-time and logs timestamped data to support predictive maintenance.
 
