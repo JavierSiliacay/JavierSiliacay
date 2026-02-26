@@ -115,7 +115,7 @@ It bridges Autotronics hardware data with an intelligent web dashboard.
 * Zod
 
 ---
-Arduino Projects
+Arduino/ESP32 Projects
 ---
 
 * 🔧 **Smart Engine Oil Monitoring System (Thesis)**
