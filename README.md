@@ -115,6 +115,8 @@ It bridges Autotronics hardware data with an intelligent web dashboard.
 * Zod
 
 ---
+Arduino Projects
+---
 
 * 🔧 **Smart Engine Oil Monitoring System (Thesis)**
   Real-time engine oil contamination monitoring using ESP32 + turbidity sensor with web logging and predictive maintenance insights.
