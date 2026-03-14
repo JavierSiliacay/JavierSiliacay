@@ -6,7 +6,12 @@
 
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25px"> About Me
 
-I'm a passionate embedded systems developer from the Philippines, currently studying at **USTP**. I specialize in building innovative hardware projects using **C/C++** and various **Arduino/ESP-based microcontrollers**. I'm obsessed with clean code, working with sensors, and transforming ideas into functional electronic projects.
+I'm a passionate developer from the Philippines, currently studying at **USTP**, focused on building intelligent systems that combine **embedded electronics, full-stack web platforms, and AI-driven automotive solutions**.
+
+My work spans from **Arduino / ESP-based hardware systems** to **production-grade full-stack applications** using **Next.js, Supabase, TypeScript, and modern AI integrations**.
+
+I enjoy designing systems where hardware and software work together — from sensors and real-time diagnostics to complete automotive service platforms deployed on the web.
+
 
 ```c
 #include <life.h>
