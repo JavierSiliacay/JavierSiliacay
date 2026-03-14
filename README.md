@@ -1,8 +1,9 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Javier Siliacay!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF66&center=true&vCenter=true&width=600&lines=Embedded+Systems+Developer;C/C%2B%2B+Arduino+Specialist;+Ethical+Hacker;Problem+Solver;Hardware+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF66&center=true&vCenter=true&width=850&lines=Embedded+Electronics+Engineer;Full-Stack+Web+Platform+Builder;Next.js+%2B+Supabase+Developer;AI-Integrated+Automotive+Solutions;Hardware+%2B+Software+Innovator" alt="Typing SVG" />
 </div>
+
 
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25px"> About Me
 
