@@ -1,13 +1,14 @@
 <div align="center">
 
 <!-- Greeting -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=99999&color=6AD3F7&center=true&vCenter=true&width=650&height=60&lines=Hello%2C+I'm+Javier+Siliacay!" alt="Greeting" />
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="45px"/>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Javier Siliacay!
+
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Javier%20Siliacay&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Next.js%20%7C%20IoT%20%7C%20AI%20Integration&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+%26+Embedded+Systems+Developer;Building+things+that+connect+the+physical+%26+digital;Next.js+%7C+ESP32+%7C+AI+Integration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+%26+Embedded+Systems+Developer;IoT+%7C+AI+Integration+%7C+Computer+Vision;Next.js+%7C+ESP32+%7C+Supabase" alt="Typing SVG" />
 
 <br/>
 
@@ -24,12 +25,9 @@
 
 ### About Me
 
-I'm a passionate developer from the Philippines, currently studying at **USTP**, focused on building intelligent systems that combine **embedded electronics, full-stack web platforms, and AI-driven automotive solutions**.
+I build full-stack web apps and embedded systems. Most of my work sits somewhere between a database query and a hardware sensor — which I find more interesting than either alone.
 
-My work spans from **Arduino / ESP-based hardware systems** to **production-grade full-stack applications** using **Next.js, Supabase, TypeScript, and modern AI integrations**.
-
-I enjoy designing systems where hardware and software work together — from sensors and real-time diagnostics to complete automotive service platforms deployed on the web.
-
+Currently working on integrating AI features into the Autoworx service management system. Also spending time with computer vision projects using MediaPipe and OpenCV on ESP32 and web platforms.
 
 - Working on AI diagnostics for the Autoworx ecosystem
 - Into Next.js, Supabase, and ESP32/Arduino day to day
