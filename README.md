@@ -1,107 +1,198 @@
-<div align="center">
-
-<!-- Greeting -->
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Javier Siliacay!
 
-
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Javier%20Siliacay&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Next.js%20%7C%20IoT%20%7C%20AI%20Integration&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+%26+Embedded+Systems+Developer;IoT+%7C+AI+Integration+%7C+Computer+Vision;Next.js+%7C+ESP32+%7C+Supabase" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=JavierSiliacay&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&border_radius=12" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JavierSiliacay&theme=tokyonight&border_radius=12" height="165" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSiliacay&layout=compact&theme=tokyonight&hide=html,css&border_radius=12" height="150" alt="Top Languages"/>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF66&center=true&vCenter=true&width=850&lines=Embedded+Electronics+Enthusiast;Full-Stack+Web+Platform+Builder;Next.js+%2B+Supabase+Developer;AI-Integrated+Automotive+Solutions;Hardware+%2B+Software+Innovator" alt="Typing SVG" />
 </div>
 
----
 
-### About Me
+## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25px"> About Me
 
-I build full-stack web apps and embedded systems. Most of my work sits somewhere between a database query and a hardware sensor — which I find more interesting than either alone.
+I'm a passionate developer from the Philippines, currently studying at **USTP**, focused on building intelligent systems that combine **embedded electronics, full-stack web platforms, and AI-driven automotive solutions**.
 
-Currently working on integrating AI features into the Autoworx service management system. Also spending time with computer vision projects using MediaPipe and OpenCV on ESP32 and web platforms.
+My work spans from **Arduino / ESP-based hardware systems** to **production-grade full-stack applications** using **Next.js, Supabase, TypeScript, and modern AI integrations**.
 
-- Working on AI diagnostics for the Autoworx ecosystem
-- Into Next.js, Supabase, and ESP32/Arduino day to day
-- Exploring RAG pipelines and computer vision for real projects
-- Thesis was a Smart Engine Oil Monitor built with IoT sensors
+I enjoy designing systems where hardware and software work together — from sensors and real-time diagnostics to complete automotive service platforms deployed on the web.
 
----
 
-### Skills
+```c
+#include <life.h>
 
-<div align="center">
+void Javier::introduction() {
+  char location[] = "Philippines";
+  char university[] = "USTP";
+  char course_program[] = "Bachelor of Science in Autotronics";
+  const char* specializations[] = {"Embedded Systems","IoT","Circuit Diagrams","Electronics Ethical Hacking"};
+  bool coffee_powered = true;
 
-**Frontend**
+  while (coffee_powered) {
+    buildCoolProjects();
+    learnNewTechnologies();
+    solveInterestingProblems();
+  }
+}
+```
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css&theme=dark&perline=6" />
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25px"> Tech Arsenal
+
+<p align="center">
+  <!-- Embedded / Hardware -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT-1572B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hardware%20Design-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sensors-4EAA25?style=for-the-badge"/>
+
+  <!-- Web / Autoworx Stack -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Microcontrollers I Master
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino%20Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino%20Nano-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino%20Mega-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESP8266-4B4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BW16-ff9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESP32%20C3%20Super%20Mini-4B4B4B?style=for-the-badge" />
+</p>
+
+## <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="25px"> Top Projects
+
+### Featured Projects
+
+### 💻 Autoworx Repairs and Gen. Merchandise System
+
+🌐 **Live:** https://autoworxcagayan.com  
+
+A premium **Vehicle Repair Management System** built on a modern real-time web architecture for automotive service operations, automation, and analytics.
+It bridges Autotronics hardware data with an intelligent web dashboard.
+
+#### 🧱 Full Tech Stack
+
+**AI Integration (The Intelligence Layer)**  
+* Primary Cloud Intelligence – Centralized AI brain powering the customer assistant and administrative analytics  
+* Redundant Local Inference – Local fallback keeps AI features operational if cloud APIs are unavailable  
+* Business Intelligence (BI) Engine – Processes workshop data into financial reports and strategic insights  
+* Humanized Response Processing – Cleans AI output to ensure natural, conversational responses  
+
+
+**Frontend & Framework**
+
+* Next.js (App Router)
+* React 19
+* TypeScript
+* Tailwind CSS
+* shadcn/ui (Radix UI)
+* Framer Motion
+* Lucide React
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,firebase&theme=dark&perline=6" />
+* Supabase (PostgreSQL)
+* Supabase Realtime (WebSockets live updates)
+* Supabase Storage (vehicle & document uploads)
 
-**Embedded & IoT**
+**Authentication & Security**
 
-<img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,linux&theme=dark&perline=6" />
+* NextAuth.js (Auth.js)
+* Google OAuth
+* Role-Based Access Control (RBAC)
 
-**AI & Computer Vision**
+**Integrations**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,python&theme=dark&perline=6" />
-<br/>
-<img src="https://img.shields.io/badge/MediaPipe-0078D4?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+* Resend API (transactional emails)
+* jsPDF + html2canvas (report PDFs)
+* Leaflet + OpenStreetMap (shop geolocation)
 
-**Tools**
+**DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,vercel&theme=dark&perline=6" />
+* pnpm
+* ESLint
+* Zod
 
-</div>
+---
+Arduino/ESP32 Projects
+---
+
+* 🔧 **Smart Engine Oil Monitoring System (Thesis)**
+  Real-time engine oil contamination monitoring using ESP32 + turbidity sensor with web logging and predictive maintenance insights.
+
+* 🎮 **Pachinko Quiz Game**
+  Servo-based interactive quiz game with scoring logic.
+
+* 🎯 **Timed Catapult System**
+  Ultrasonic-based projectile velocity measurement.
+
+* ⚡ **EMF Detector** – Analog EMF sensing with visual feedback
+
+* 🧪 **Normal/Abnormal Mode System** – Operational logic monitoring
+
+* 🌡️ **Temperature Monitoring System** – Alerts + logging
+
+* 🔥 **Smoke & Gas Flame Detection** – Multi-sensor safety device
+
+* 💡 **pH Detection with LCD** – Water acidity measurement
+
+* 💧 **pH LED Indicator System** – Visual pH classification
+
+* 🌬️ **Windmill Energy System** – Wind-to-voltage simulation
+
+* 🗑️ **Automated Waste Segregator** – IR + rain sensor sorting
+
+* 🔥🗑️ **Smart Fire–Gas–Bin Monitor** – Hazard + bin automation
+
+### Educational Ethical Hacking Projects (Private)
+
+* 📡 **WiFi Deauther** – ESP8266 network security research tool
+* 📡 **WiFi & Bluetooth Jammer** – 2.4 GHz interference study platform
+* 📡 **Dual-Band Deauther (2.4 / 5 GHz)** – Wireless disruption research
+
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="25px"> Current Learning Path
+
+```mermaid
+graph LR
+    A[Advanced Embedded Systems] --> B[RTOS]
+    A --> C[Memory Optimization]
+    D[IoT + Cloud Integration] --> E[MQTT]
+    D --> F[AWS IoT]
+    G[Edge AI] --> H[TinyML]
+    G --> I[Computer Vision]
+```
+
+## <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Q3/giphy.gif" width="25px"> GitHub Activity
+
+* 💻 Arduino & IoT development
+* 🔍 Sensor network research
+* 📚 RTOS learning
+* 🌱 Open-source hardware contribution
+
+## <img src="https://media.giphy.com/media/KcVtTHxaCXqSJQKoUx/giphy.gif" width="25px"> Connect with Me
+
+<p align="center">
+  <a href="https://www.facebook.com/siliacayjavier/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/yaboi_vier" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### Projects
-
 <div align="center">
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| [**Autoworx System**](https://github.com/JavierSiliacay/autoworx-system) [autoworxcagayan.com](https://autoworxcagayan.com) | Vehicle service management with AI diagnostics, estimates and financial tracking | Next.js, Supabase, PostgreSQL |
-| [**TaraFix**](https://github.com/JavierSiliacay/TaraFix) | Find nearby mechanics and auto-shops across the Philippines in real time | Next.js 15, React 19, Leaflet |
-| [**Autoworx Inventory**](https://github.com/JavierSiliacay/autoworx-inventory) | Automotive parts and sales tracking with real-time stock and paint batch management | Next.js, TypeScript, Supabase |
-| [**ESP32 IoT Templates**](https://github.com/JavierSiliacay/ESP32-Templates) | Reusable ESP32 templates for AI Vision, MQTT, Telegram bots and cloud sync | C++, ESP32, Firebase, Gemini |
-| [**Oil Monitor**](https://github.com/JavierSiliacay/JavierSiliacay) | IoT system that monitors engine oil quality using turbidity sensors in real time | C++, ESP32, Sensors |
-| [**SuperMini Jammer**](https://github.com/JavierSiliacay/SuperMini-Jammer) | Handheld 2.4GHz research tool for testing wireless network resilience | ESP32-C3, nRF24L01+ |
-
-</div>
-
-
-### Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JavierSiliacay&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+⚡ Made with 💻, 💡, and ☕ by Javier Siliacay  
+<br><br>
+<img src="https://profile-counter.glitch.me/YourUsername/count.svg" />
 </div>
 
 ---
-
-### Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://javiersiliacay.vercel.app/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/siliacayjavier)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yaboi_vier)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
