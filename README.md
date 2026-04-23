@@ -2,7 +2,7 @@
 
 <!-- Greeting -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=99999&color=6AD3F7&center=true&vCenter=true&width=650&height=60&lines=Hello%2C+I'm+Javier+Siliacay!" alt="Greeting" />
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"/>
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Javier%20Siliacay&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Next.js%20%7C%20IoT%20%7C%20AI%20Integration&descAlignY=55&descSize=18" width="100%"/>
@@ -82,15 +82,6 @@ Currently working on integrating AI features into the Autoworx service managemen
 
 </div>
 
----
-
-### Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JavierSiliacay&theme=tokyo-night&area=true&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
-</div>
-
----
 
 ### Trophies
 
@@ -106,7 +97,7 @@ Currently working on integrating AI features into the Autoworx service managemen
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://javiersiliacay.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/siliacayjavier)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsyaboi_vier)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yaboi_vier)
 
 </div>
 
