@@ -9,6 +9,7 @@
 
 <br/>
 
+<!-- Unified Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=JavierSiliacay&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&border_radius=12" height="165" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JavierSiliacay&theme=tokyonight&border_radius=12" height="165" alt="GitHub Streak"/>
 
@@ -89,6 +90,75 @@ Currently working on integrating AI features into the Autoworx service managemen
 
 </div>
 
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<!--
+  Unified stats card combining: total commits, streak, contributions, and top languages.
+  Source data (as of Apr 2026):
+    - Total Commits: 688
+    - Total Contributions: 729 (Aug 4, 2024 – Present)
+    - Current Streak: 2 days (Apr 22 – Apr 23)
+    - Longest Streak: 9 days (Feb 12 – Feb 20)
+    - Top Lang: C++ 64.49%, TypeScript 29.60%, C 5.10%, JS 0.46%, Makefile 0.20%, PLpgSQL 0.15%
+-->
+
+<table>
+  <tr>
+    <td align="center" colspan="3">
+      <b>Ryo.'s GitHub Stats</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>⏱ Total Commits</b><br/>
+      <code>688</code>
+    </td>
+    <td align="center">
+      <b>⭐ Grade</b><br/>
+      <code>C+</code>
+    </td>
+    <td align="center">
+      <b>📊 Total Contributions</b><br/>
+      <code>729</code><br/>
+      <sub>Aug 4, 2024 – Present</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🔥 Current Streak</b><br/>
+      <code>2 days</code><br/>
+      <sub>Apr 22 – Apr 23</sub>
+    </td>
+    <td align="center">
+      <b>⚡ Longest Streak</b><br/>
+      <code>9 days</code><br/>
+      <sub>Feb 12 – Feb 20</sub>
+    </td>
+    <td align="center">
+      <b>💬 Top Language</b><br/>
+      <code>C++ 64.49%</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <b>Most Used Languages</b><br/><br/>
+      <img src="https://img.shields.io/badge/C++-64.49%25-f06292?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-29.60%25-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-5.10%25-a8b9cc?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-0.46%25-f7df1e?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Makefile-0.20%25-6d8086?style=flat-square"/>
+      <img src="https://img.shields.io/badge/PLpgSQL-0.15%25-8f6cba?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
 
 ### Trophies
 
