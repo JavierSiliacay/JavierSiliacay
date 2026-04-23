@@ -84,7 +84,7 @@ Currently working on integrating AI features into the Autoworx service managemen
 | [**TaraFix**](https://github.com/JavierSiliacay/TaraFix) | Find nearby mechanics and auto-shops across the Philippines in real time | Next.js 15, React 19, Leaflet |
 | [**Autoworx Inventory**](https://github.com/JavierSiliacay/autoworx-inventory) | Automotive parts and sales tracking with real-time stock and paint batch management | Next.js, TypeScript, Supabase |
 | [**ESP32 IoT Templates**](https://github.com/JavierSiliacay/ESP32-Templates) | Reusable ESP32 templates for AI Vision, MQTT, Telegram bots and cloud sync | C++, ESP32, Firebase, Gemini |
-| [**Oil Monitor**](https://github.com/JavierSiliacay/JavierSiliacay) | IoT system that monitors engine oil quality using turbidity sensors in real time | C++, ESP32, Sensors |
+| [**Engine Oil Monitoring**](https://github.com/JavierSiliacay/JavierSiliacay) | IoT system that monitors engine oil quality using turbidity sensors in real time | C++, ESP32, Sensors |
 | [**SuperMini Jammer**](https://github.com/JavierSiliacay/SuperMini-Jammer) | Handheld 2.4GHz research tool for testing wireless network resilience | ESP32-C3, nRF24L01+ |
 
 </div>
