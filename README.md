@@ -1,8 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Javier Siliacay!
 
-<div align="center">
-
-
 ### About Me
 
 I build full-stack web apps and embedded systems. Most of my work sits somewhere between a AI Integration and exploring new things — which I find more interesting than either alone.
