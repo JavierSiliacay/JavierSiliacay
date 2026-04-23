@@ -12,6 +12,7 @@ Currently working on integrating AI features into the Autoworx service managemen
 - Thesis was a Real-Time Monitoring of Engine Oil Contamination Using an ESP32-Based Web Server and Turbidity Sensing System built with IoT sensors
 
 ---
+<div align="center">
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Javier%20Siliacay&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Next.js%20%7C%20IoT%20%7C%20AI%20Integration&descAlignY=55&descSize=18" width="100%"/>
