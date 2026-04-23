@@ -2,6 +2,20 @@
 
 <div align="center">
 
+
+### About Me
+
+I build full-stack web apps and embedded systems. Most of my work sits somewhere between a AI Integration and exploring new things — which I find more interesting than either alone.
+
+Currently working on integrating AI features into the Autoworx service management system. Also spending time with computer vision projects using MediaPipe and OpenCV on ESP32 and web platforms.
+
+- Working on AI diagnostics for the Autoworx ecosystem
+- Into Next.js, Supabase, and ESP32/Arduino day to day
+- Exploring RAG pipelines and computer vision for real projects
+- Thesis was a Real-Time Monitoring of Engine Oil Contamination Using an ESP32-Based Web Server and Turbidity Sensing System built with IoT sensors
+
+---
+
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Javier%20Siliacay&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Next.js%20%7C%20IoT%20%7C%20AI%20Integration&descAlignY=55&descSize=18" width="100%"/>
 
@@ -17,19 +31,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSiliacay&layout=compact&theme=tokyonight&hide=html,css&border_radius=12" height="150" alt="Top Languages"/>
 
 </div>
-
----
-
-### About Me
-
-I build full-stack web apps and embedded systems. Most of my work sits somewhere between a AI Integration and exploring new things — which I find more interesting than either alone.
-
-Currently working on integrating AI features into the Autoworx service management system. Also spending time with computer vision projects using MediaPipe and OpenCV on ESP32 and web platforms.
-
-- Working on AI diagnostics for the Autoworx ecosystem
-- Into Next.js, Supabase, and ESP32/Arduino day to day
-- Exploring RAG pipelines and computer vision for real projects
-- Thesis was a Real-Time Monitoring of Engine Oil Contamination Using an ESP32-Based Web Server and Turbidity Sensing System built with IoT sensors
 
 ---
 
