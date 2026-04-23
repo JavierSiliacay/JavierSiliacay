@@ -29,7 +29,7 @@ Currently working on integrating AI features into the Autoworx service managemen
 - Working on AI diagnostics for the Autoworx ecosystem
 - Into Next.js, Supabase, and ESP32/Arduino day to day
 - Exploring RAG pipelines and computer vision for real projects
-- Thesis was a Smart Engine Oil Monitor built with IoT sensors
+- Thesis was a Real-Time Monitoring of Engine Oil Contamination Using an ESP32-Based Web Server and Turbidity Sensing System built with IoT sensors
 
 ---
 
