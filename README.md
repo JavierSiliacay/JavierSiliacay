@@ -80,7 +80,7 @@ Currently working on integrating AI features into the Autoworx service managemen
 | Project | Description | Stack |
 |:---|:---|:---|
 | [**Autoworx System**](https://github.com/JavierSiliacay/autoworx-system) [autoworxcagayan.com](https://autoworxcagayan.com) | Vehicle service management with AI diagnostics, estimates and financial tracking | Next.js, Supabase, PostgreSQL |
-| [**Mekanik AI**](https://github.com/JavierSiliacay/mekanik-ai) [mekanikai.vercel.app](https://mekanikai.vercel.app/) | AI-powered automotive diagnostic assistant designed to help vehicle owners and mechanics diagnose problems. | Offline LLM integration, Android Development, Cloud AI API |
+| [**Mekanik AI**](https://github.com/JavierSiliacay/mekanik-ai) [mekanikai.vercel.app](https://mekanikai.vercel.app/) | AI-powered automotive diagnostic assistant designed to help vehicle owners and mechanics diagnose problems. | Offline LLM integration, Android Development, Cloud AI API | OBDII Integrations |
 | [**TaraFix**](https://github.com/JavierSiliacay/TaraFix) | Find nearby mechanics and auto-shops across the Philippines in real time | Next.js 16, React 19, Leaflet |
 | [**Autoworx Inventory**](https://github.com/JavierSiliacay/autoworx-inventory) | Automotive parts and sales tracking with real-time stock and paint batch management | Next.js, TypeScript, Supabase |
 | [**ESP32 IoT Templates**](https://github.com/JavierSiliacay/ESP32-Templates) | Reusable ESP32 templates for AI Vision, MQTT, Telegram bots and cloud sync | C++, ESP32, Firebase, Gemini |
