@@ -1,21 +1,25 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Javier Siliacay!
+
+### About Me
+
+I'm a **Software Developer**, **AI Engineer**, and **IoT Enthusiast**. Most of my work sits at the intersection of building full-stack web apps, integrating AI, and exploring embedded systems — bringing the physical and digital worlds together into a cohesive stack.
+
+Currently, I'm working on integrating AI features into the Autoworx service management system, while also spending time on computer vision projects using MediaPipe and OpenCV across ESP32 and web platforms.
+
+- 🧠 Working on AI diagnostics for the Autoworx ecosystem
+- 💻 Into Next.js, Supabase, and ESP32/Arduino day to day
+- 👁️ Exploring RAG pipelines and computer vision for real projects
+- 🎓 Thesis: Real-Time Monitoring of Engine Oil Contamination Using an ESP32-Based Web Server and Turbidity Sensing System built with IoT sensors
+
+---
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello, I'm Javier Siliacay!
-
-### Software Developer, AI Engineer, & IoT Enthusiast
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Javier%20Siliacay&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Next.js%20%7C%20IoT%20%7C%20AI%20Integration&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/JavierSiliacay">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+%26+Embedded+Systems+Developer;IoT+%7C+AI+Integration+%7C+Computer+Vision;Web+%C2%B7+IoT+%C2%B7+AI+%E2%80%94+All+in+One+Stack" alt="Typing SVG" />
 </a>
-
-<p align="center">
-  Bridging the gap between the physical and digital worlds. I build full-stack web apps, integrate AI and computer vision, and develop embedded systems. I love exploring the intersection of these technologies—bringing Web, IoT, and AI together into a cohesive stack.
-</p>
-
----
-
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Javier%20Siliacay&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Next.js%20%7C%20IoT%20%7C%20AI%20Integration&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -30,15 +34,7 @@
 
 ---
 
-### 🚀 What I'm currently up to
-- 🧠 Integrating **AI diagnostics** into the Autoworx ecosystem.
-- 💻 Building daily with **Next.js, Supabase,** and **ESP32/Arduino**.
-- 👁️ Exploring **RAG pipelines** and **Computer Vision** (MediaPipe & OpenCV) for real-world applications.
-- 🎓 Built my thesis on: *Real-Time Monitoring of Engine Oil Contamination Using an ESP32-Based Web Server and Turbidity Sensing System.*
-
----
-
-### 🛠️ Skills
+### Skills
 
 <div align="center">
 
@@ -79,7 +75,7 @@
 
 ---
 
-### 📂 Projects
+### Projects
 
 <div align="center">
 
@@ -95,7 +91,8 @@
 
 </div>
 
-### 🏆 Trophies
+
+### Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=JavierSiliacay&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -103,7 +100,7 @@
 
 ---
 
-### 🌐 Connect
+### Connect
 
 <div align="center">
 
