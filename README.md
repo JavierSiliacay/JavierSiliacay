@@ -6,10 +6,10 @@ I'm a **Software Developer**, **AI Engineer**, and **IoT Enthusiast**. Most of m
 
 Currently, I'm working on integrating AI features into the Autoworx service management system, while also spending time on computer vision projects using MediaPipe and OpenCV across ESP32 and web platforms.
 
-- 🧠 Working on AI diagnostics for the Autoworx ecosystem
-- 💻 Into Next.js, Supabase, and ESP32/Arduino day to day
-- 👁️ Exploring RAG pipelines and computer vision for real projects
-- 🎓 Thesis: Real-Time Monitoring of Engine Oil Contamination Using an ESP32-Based Web Server and Turbidity Sensing System built with IoT sensors
+- 💻 **Software Development:** Architecting the full-stack Autoworx service management and inventory platform
+- 🧠 **AI Engineering:** Developing Mekanik AI, an offline LLM diagnostic assistant with live OBDII integration
+- 👁️ **Computer Vision:** Exploring real-world RAG pipelines and MediaPipe implementations
+- 🎓 **IoT Thesis:** Built a Real-Time Engine Oil Monitoring System using an ESP32 web server and custom sensors
 
 ---
 <div align="center">
