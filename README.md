@@ -18,8 +18,9 @@ Currently, I'm working on integrating AI features into the Autoworx service mana
 <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Javier%20Siliacay&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Next.js%20%7C%20IoT%20%7C%20AI%20Integration&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/JavierSiliacay">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+%26+Embedded+Systems+Developer;IoT+%7C+AI+Integration+%7C+Computer+Vision;Web+%C2%B7+IoT+%C2%B7+AI+%E2%80%94+All+in+One+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=50&lines=Software+Developer;AI+Engineer;IoT+Enthusiast;Building+the+All-in-One+Stack" alt="Typing SVG" />
 </a>
+
 
 <br/>
 
