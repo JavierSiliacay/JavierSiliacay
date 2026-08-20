@@ -1,23 +1,21 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Javier Siliacay!
+<div align="center">
 
-### About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello, I'm Javier Siliacay!
 
-I build full-stack web apps and embedded systems. Most of my work sits somewhere between a AI Integration and exploring new things — which I find more interesting than either alone.
+### Software Developer, AI Engineer, & IoT Enthusiast
 
-Currently working on integrating AI features into the Autoworx service management system. Also spending time with computer vision projects using MediaPipe and OpenCV on ESP32 and web platforms.
+<a href="https://github.com/JavierSiliacay">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+%26+Embedded+Systems+Developer;IoT+%7C+AI+Integration+%7C+Computer+Vision;Web+%C2%B7+IoT+%C2%B7+AI+%E2%80%94+All+in+One+Stack" alt="Typing SVG" />
+</a>
 
-- Working on AI diagnostics for the Autoworx ecosystem
-- Into Next.js, Supabase, and ESP32/Arduino day to day
-- Exploring RAG pipelines and computer vision for real projects
-- Thesis was a Real-Time Monitoring of Engine Oil Contamination Using an ESP32-Based Web Server and Turbidity Sensing System built with IoT sensors
+<p align="center">
+  Bridging the gap between the physical and digital worlds. I build full-stack web apps, integrate AI and computer vision, and develop embedded systems. I love exploring the intersection of these technologies—bringing Web, IoT, and AI together into a cohesive stack.
+</p>
 
 ---
-<div align="center">
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Javier%20Siliacay&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Next.js%20%7C%20IoT%20%7C%20AI%20Integration&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+%26+Embedded+Systems+Developer;IoT+%7C+AI+Integration+%7C+Computer+Vision;Web+%C2%B7+IoT+%C2%B7+AI+%E2%80%94+All+in+One+Stack" alt="Typing SVG" />
 
 <br/>
 
@@ -32,7 +30,15 @@ Currently working on integrating AI features into the Autoworx service managemen
 
 ---
 
-### Skills
+### 🚀 What I'm currently up to
+- 🧠 Integrating **AI diagnostics** into the Autoworx ecosystem.
+- 💻 Building daily with **Next.js, Supabase,** and **ESP32/Arduino**.
+- 👁️ Exploring **RAG pipelines** and **Computer Vision** (MediaPipe & OpenCV) for real-world applications.
+- 🎓 Built my thesis on: *Real-Time Monitoring of Engine Oil Contamination Using an ESP32-Based Web Server and Turbidity Sensing System.*
+
+---
+
+### 🛠️ Skills
 
 <div align="center">
 
@@ -73,24 +79,23 @@ Currently working on integrating AI features into the Autoworx service managemen
 
 ---
 
-### Projects
+### 📂 Projects
 
 <div align="center">
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [**Autoworx System**](https://github.com/JavierSiliacay/autoworx-system) [autoworxcagayan.com](https://autoworxcagayan.com) | Vehicle service management with AI diagnostics, estimates and financial tracking | Next.js, Supabase, PostgreSQL |
-| [**Mekanik AI**](https://github.com/JavierSiliacay/mekanik-ai) [mekanikai.vercel.app](https://mekanikai.vercel.app/) | AI-powered automotive diagnostic assistant designed to help vehicle owners and mechanics diagnose problems. | Offline LLM integration, Android Development, Cloud AI API, OBDII Integrations |
-| [**TaraFix**](https://github.com/JavierSiliacay/TaraFix) | Find nearby mechanics and auto-shops across the Philippines in real time | Next.js 16, React 19, Leaflet |
-| [**Autoworx Inventory**](https://github.com/JavierSiliacay/autoworx-inventory) | Automotive parts and sales tracking with real-time stock and paint batch management | Next.js, TypeScript, Supabase |
-| [**ESP32 IoT Templates**](https://github.com/JavierSiliacay/ESP32-Templates) | Reusable ESP32 templates for AI Vision, MQTT, Telegram bots and cloud sync | C++, ESP32, Firebase, Gemini |
-| [**Engine Oil Monitoring**](https://github.com/JavierSiliacay/JavierSiliacay) | IoT system that monitors engine oil quality using turbidity sensors in real time | C++, ESP32, Sensors |
-| [**SuperMini Jammer**](https://github.com/JavierSiliacay/SuperMini-Jammer) | Handheld 2.4GHz research tool for testing wireless network resilience | ESP32-C3, nRF24L01+ |
+| [**Autoworx System**](https://github.com/JavierSiliacay/autoworx-system)<br/>[autoworxcagayan.com](https://autoworxcagayan.com) | Vehicle service management with AI diagnostics, estimates and financial tracking. | Next.js, Supabase, PostgreSQL |
+| [**Mekanik AI**](https://github.com/JavierSiliacay/mekanik-ai)<br/>[mekanikai.vercel.app](https://mekanikai.vercel.app/) | AI-powered automotive diagnostic assistant designed to help vehicle owners and mechanics diagnose problems. | Offline LLM integration, Android Development, Cloud AI API, OBDII Integrations |
+| [**TaraFix**](https://github.com/JavierSiliacay/TaraFix) | Find nearby mechanics and auto-shops across the Philippines in real time. | Next.js 16, React 19, Leaflet |
+| [**Autoworx Inventory**](https://github.com/JavierSiliacay/autoworx-inventory) | Automotive parts and sales tracking with real-time stock and paint batch management. | Next.js, TypeScript, Supabase |
+| [**ESP32 IoT Templates**](https://github.com/JavierSiliacay/ESP32-Templates) | Reusable ESP32 templates for AI Vision, MQTT, Telegram bots and cloud sync. | C++, ESP32, Firebase, Gemini |
+| [**Engine Oil Monitoring**](https://github.com/JavierSiliacay/JavierSiliacay) | IoT system that monitors engine oil quality using turbidity sensors in real time. | C++, ESP32, Sensors |
+| [**SuperMini Jammer**](https://github.com/JavierSiliacay/SuperMini-Jammer) | Handheld 2.4GHz research tool for testing wireless network resilience. | ESP32-C3, nRF24L01+ |
 
 </div>
 
-
-### Trophies
+### 🏆 Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=JavierSiliacay&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -98,7 +103,7 @@ Currently working on integrating AI features into the Autoworx service managemen
 
 ---
 
-### Connect
+### 🌐 Connect
 
 <div align="center">
 
