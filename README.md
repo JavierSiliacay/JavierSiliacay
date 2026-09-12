@@ -24,8 +24,9 @@ Currently, I'm working on integrating AI features into the Autoworx service mana
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JavierSiliacay&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&border_radius=12" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JavierSiliacay&theme=tokyonight&border_radius=12" height="165" alt="GitHub Streak"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=JavierSiliacay&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&border_radius=12" height="165" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=JavierSiliacay&theme=tokyonight&border_radius=12" height="165" alt="GitHub Streak"/>
+
 
 <br/>
 
