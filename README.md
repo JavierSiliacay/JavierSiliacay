@@ -21,16 +21,13 @@ Currently, I'm working on integrating AI features into the Autoworx service mana
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=50&lines=Software+Developer;AI+Engineer;IoT+Enthusiast;Building+the+All-in-One+Stack" alt="Typing SVG" />
 </a>
 
-
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=JavierSiliacay&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&border_radius=12" height="165" alt="GitHub Stats"/>
 <img src="https://streak-stats.demolab.com/?user=JavierSiliacay&theme=tokyonight&border_radius=12" height="165" alt="GitHub Streak"/>
 
-
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSiliacay&layout=compact&theme=tokyonight&hide=html,css&border_radius=12" height="150" alt="Top Languages"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JavierSiliacay&layout=compact&theme=tokyonight&hide=html,css&border_radius=12" height="150" alt="Top Languages"/>
 
 </div>
 
@@ -108,7 +105,7 @@ Currently, I'm working on integrating AI features into the Autoworx service mana
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://javiersiliacay.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/siliacayjavier)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yaboi_vier)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsyaboi_vier)
 
 </div>
 
