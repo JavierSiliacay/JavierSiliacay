@@ -27,7 +27,7 @@ Currently, I'm working on integrating AI features into the Autoworx service mana
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JavierSiliacay&layout=compact&theme=tokyonight&hide=html,css&border_radius=12" height="150" alt="Top Languages"/>
+
 
 </div>
 
